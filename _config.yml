@@ -67,7 +67,7 @@ plugins:
 
 author:
   name   : "Connor McKinney"
-  avatar : "/assets/images/cat_pic.jpg"
+  avatar : "/assets/images/cat_pic.JPG"
   bio    : "I do things"
   links:
     - label: "LinkedIn"
