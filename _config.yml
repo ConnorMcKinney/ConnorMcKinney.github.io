@@ -26,7 +26,8 @@ github_username: ConnorMcKinney
 
 repository : ConnorMcKinney/ConnorMcKinney.github.io
 
-foo: &github_url "https://github.com/ConnorMcKinney"
+a: &github_url "https://github.com/ConnorMcKinney"
+b: &linkedin_url "https://www.linkedin.com/in/connor-mckinney/"
 
 
 search: true
@@ -72,7 +73,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/connor-mckinney/"
+      url: *linkedin_url
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
    #   url: "https://twitter.com/"
@@ -87,7 +88,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/connor-mckinney/"
+      url: *linkedin_url
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: *github_url
