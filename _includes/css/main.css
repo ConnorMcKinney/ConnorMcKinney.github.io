@@ -80,6 +80,19 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.imgContainer {
+  height: 100px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: -23px;
+}
+.row_6 {      
+   position: relative;
+}
+
 header {
     text-align: center;
     color: #fff;
