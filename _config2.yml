@@ -1,12 +1,10 @@
 # Site settings
-
-title: Connor McKinney
-name: Hello. I'm Connor McKinney
+title: Person-who-does-stuff
 email: cm0215@uah.edu
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "It's a description"
-keywords: "connor mckinney, aerospace, 3d printing, wind tunnel, additive manufacturing, college"
-tagline: "See, Do, Become"
+keywords: "your keywords, separated by commas"
+skills: "See, Do, Become"
 meta_author: McKinney Connor
 
 # Google webmaster tools
