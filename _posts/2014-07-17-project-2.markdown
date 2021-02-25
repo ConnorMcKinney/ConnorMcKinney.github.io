@@ -7,6 +7,7 @@ imgs:
  - Glider Top View.jpg
  - glider_electrical.png
  - glider_wing_skeleton.jpg
+ - glider_right_wing.png
 alt: image-alt
 project-date: Fall 2019
 client: UAH's Space Hardware Club
@@ -14,7 +15,7 @@ website: http://space.uah.edu/TwoMonth.html
 category: Aerospace, Mechanical, and Electrical Engineering
 description: "The goal: Make a glider that attaches to a weather balloon, cuts itself down at 300 meters, and gathers acceleration, rotation, and air pressure data on the way down.
 
-<br><br>Skills used: 3D modeling, Circuit design, Arduino programming, 3D printing, CFD analysis, General shop tools.
+<br><br>This project involved3D modeling, Circuit design, Arduino programming, 3D printing, CFD analysis, General shop tools.
 
 <br><br>Learning outcomes: Aerofoil/plane design basics, engineering on a time constraint, circuits without a breadboard."
 

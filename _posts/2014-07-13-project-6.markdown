@@ -2,10 +2,20 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+title: Mechanical Projects
+imgs: 
+ - teah_pic.jpg
+ - submarine.png
+ - game.png
+ - safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2016-Present
+client: Personal Projects
+category: Various
+description: "
+
+Glaive, airsoft bow, timberwolf carbine, climbing structure, Sawhorse, ...?
+
+
+"
 ---
