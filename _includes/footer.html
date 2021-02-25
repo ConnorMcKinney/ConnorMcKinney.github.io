@@ -6,13 +6,13 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
-                        <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
+                         <h3>Contact Information</h3>
+                         <p>
+                            {% for info in site.contact_information %}
+                                {{ info.line }} <br>
 		                    {% endfor %}
                         </p>
-                    </div>
+                    </div>				
                     <div class="col-md-4">
                         <h3>{{ site.footer.social }}</h3>
                         <ul class="list-inline">
@@ -28,11 +28,13 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                         <h3>Contact Information</h3>
-                         <p>
-                            {% for info in site.contact_information %}
-                                {{ info.line }} <br>
+                        <h3>{{ site.footer.location }}</h3>
+                        <p>
+                            {% for adress in site.address %}
+                                {{ adress.line }} <br>
 		                    {% endfor %}
+							
+							<br>During school semesters I<br>reside in Huntsville, AL
                         </p>
                     </div>
                 </div>

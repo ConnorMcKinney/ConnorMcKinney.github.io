@@ -1,12 +1,21 @@
 ---
 layout: default
 modal-id: 2
+title: Space Hardware Club Two Month Glider
 date: 2014-07-17
 imgs: 
  - Glider Top View.jpg
+ - glider_electrical.png
+ - glider_wing_skeleton.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Fall 2019
+client: UAH's Space Hardware Club
+website: http://space.uah.edu/TwoMonth.html
+category: Aerospace, Mechanical, and Electrical Engineering
+description: "The goal: Make a glider that attaches to a weather balloon, cuts itself down at 300 meters, and gathers acceleration, rotation, and air pressure data on the way down.
+
+<br><br>Skills used: 3D modeling, Circuit design, Arduino programming, 3D printing, CFD analysis, General shop tools.
+
+<br><br>Learning outcomes: Aerofoil/plane design basics, engineering on a time constraint, circuits without a breadboard."
+
 ---

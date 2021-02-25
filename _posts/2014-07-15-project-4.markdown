@@ -2,11 +2,20 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
+title: Programming Projects
 imgs: 
  - game.png
+portfolio_video: programming_edit.mp4
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2015-Present
+client: Personal and Team Projects
+category: "Programming in Lua, Python, Matlab, C++(in Arduino)"
+description: "
+
+Lots of projects. Lots.
+
+
+
+
+"
 ---
