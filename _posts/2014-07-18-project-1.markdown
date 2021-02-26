@@ -6,6 +6,9 @@ date: 2014-07-18
 imgs: 
  - Ascender Front Left.jpg
  - Ascender Interior.jpg
+ 
+video: ropeascender_motors.mp4
+video_scale: 100%
 alt: image-alt
 project-date: Fall 2020
 client: "UAH ENG 211: Intro to CAD"
