@@ -1,18 +1,19 @@
 ---
 layout: default
 modal-id: 1
-title: SolidEdge Rope Ascender
+title: Sci-fi Rope Ascender
 date: 2014-07-18
 imgs: 
  - Ascender Front Left.jpg
  - Ascender Interior.jpg
  
-video: ropeascender_motors.mp4
-video_scale: 100%
+video: ascender_anim_render.6.mp4
+video_scale: 75%
 alt: image-alt
 project-date: Fall 2020
 client: "UAH ENG 211: Intro to CAD"
 category: CAD
-description: This work was done for my intro to CAD class in college. This piece of equipment was designed in SolidEdge in a sci-fi theme to ascend 13mm diameter climbing rope. The assembly features 25 unique parts, including fully featured worm, wheel, and bevel gears.
+description: "This piece of equipment was designed in Solid Edge in a sci-fi theme to ascend 13mm diameter climbing rope. There are 25 unique parts, along with a myriad of 
+metric machine screws and bolts."
 
 ---

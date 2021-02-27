@@ -24,21 +24,24 @@
 										
 									  </div>
 									{% endfor %}
+									
+									{% if post.video %}
+										<div class="col">
+										<video preload="auto" autoplay muted playsinline loop style="width:{{ post.video_scale }}; {{ post.video_scale }};">
+										<source src="img/portfolio/{{post.video}}" type="video/mp4">
+										</video> 
+										</div>
+									{% endif %}
 								{% endif %}
 								{% if post.imgs.size() == 1 %}
 									<div class="col">
 										
-										<img src="img/portfolio/{{ post.imgs }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+										<img src="img/portfolio/{{ post.imgs[0] }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 										
 									</div>
 								{% endif %}
 								
-								{% if post.video %}
-
-									<video preload="auto" autoplay muted playsinline loop style="width:{{ post.video_scale }}; {{ post.video_scale }};">
-									<source src="img/portfolio/{{post.video}}" type="video/mp4">
-									</video> 
-								{% endif %}
+								
 							</div>
 						   {% if post.description %}
                                 <p>{{ post.description }}</p>

@@ -12,11 +12,13 @@ client: Space Hardware Club, Person projects
 category: Programming and Electrical Engineering
 description: "
 
-Pictured is an Arduino ESP32 wifi board that I programmed to use the Twitter API to send Tweets on
+Pictured on the right is an Arduino ESP32 wifi board that I programmed to use the Twitter API to send Tweets on
 a public Twitter account. The goal was to have a mass alert system to let members of a club know
 when the lab was open, but COVID caused the lab to be unavailable and development was discontinued.
 
+<br><br>Also shown is the board from the balloon-launched glider project.
 
+<br><br>Other projects with no pictures include an automatic plant watering setup, small contraptions with servo motors, and assorted small tests for light/hall effect/sound/vibration sensors.
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-title: Space Hardware Club Two Month Glider
+title: Balloon-Launched Glider
 date: 2014-07-17
 imgs: 
  - Glider Top View.jpg
@@ -20,10 +20,19 @@ project-date: Fall 2019
 client: UAH's Space Hardware Club
 website: http://space.uah.edu/TwoMonth.html
 category: Aerospace, Mechanical, and Electrical Engineering
-description: "The goal: Make a glider that attaches to a weather balloon, cuts itself down at 300 meters, and gathers acceleration, rotation, and air pressure data on the way down.
+description: "
 
-<br><br>This project involved 3D modeling, circuit design, Arduino programming, 3D printing, CFD analysis, and the use of general shop tools.
+A 1kg glider that I designed and built during Space Hardware Club's '2 Month Challenge' in my freshman year. I prepared trade studies, preliminary design review presentations, and attended classes held
+ by the club before beginning the build. The wings are 3D printed ribs with rip-stop nylon as a skin, the body is made out of foam board insulation, and the heart of the electronics
+ is a Teensy 3.2 quasi-Arduino board. The Teensy read data from a 9 axis MPU, a barometer/thermistor, and saved data to a micro SD card. <br><br>
+ 
+ My glider had a successful flight, activating a nichrome hotwire to detach from a weather balloon at an altitude of 300m. It descended at a rate of 4m/s and I was able to pull
+ all the data into Matlab for analysis.
 
-<br><br>Learning outcomes: Aerofoil/plane design basics, engineering on a time constraint, circuits without a breadboard."
+
+
+
+
+"
 
 ---

@@ -4,15 +4,31 @@ modal-id: 4
 date: 2014-07-15
 title: Programming Projects
 imgs: 
- - game.png
+ - chat_room_picture.png
+ - matlab_app.png
+ - room_generator.png
+ - war_analysis.png
+ 
+ 
+video: wave_generator.mp4
+video_scale: .66
 portfolio_video: programming_edit.mp4
 alt: image-alt
 project-date: 2015-Present
 client: Personal and Team Projects
-category: "Programming in Lua, Python, Matlab, C++(in Arduino)"
+category: "Programming in Lua, Python, and Matlab"
 description: "
 
-Lots of projects. Lots.
+In reading order: 
+
+<br> 1. A chat room created in Python with netsocket and multi-threading modules.
+<br> 2. Prototype windtunnel controller created in Matlab, done as an experiment in Matlab app design. It can take input for angle of attack and airspeed, export data in excel files, and show video feed while running.
+<br> 3. A random dungeon generator created with Lua. As with all of my Lua work, it was done in the Roblox Studio game-dev engine.
+<br> 4. War (the card game), created with Python. I was tasked with building the game as a school project. During the task, I got curious about the statistics of war and decided to automate the game.
+It turns out the average war game lasts around 146 turns, but with absurd luck the game can end in 8 moves.
+<br> 5. Finally, a wave generator I made in Python. It serves no purpose other than being relaxing to watch. 
+
+<br><br> 6. Shown on the main page is a random maze generation and pathfinding program written with Python and displayed with the tkinter module.
 
 
 
