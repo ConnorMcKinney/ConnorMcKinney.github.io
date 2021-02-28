@@ -6,6 +6,9 @@ title: Mechanical Projects
 imgs: 
  - trebuchet.jpg
  - climbing_structure.jpg
+ - airsoft_bow.jpg
+ - glaive_and_sword.jpg
+ - stock_and_box.jpg
 alt: image-alt
 project-date: 2016-Present
 client: Personal Projects
