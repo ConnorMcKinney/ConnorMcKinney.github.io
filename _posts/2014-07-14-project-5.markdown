@@ -8,13 +8,24 @@ imgs:
  - Candlestick Phone.png
  - timberwolf_render_top_left.png
  - timberwolf_render_front left.png
+ - stock_and_box.jpg
 alt: image-alt
 project-date: 2018-2020
-client: Start Bootstrap
-category: Web Development
+client: Personal Projects
+category: CAD and 3D Printing
 description: "
 
-Haha. Fusion 360 go brrrrrr
+Images in reading order:
+
+<br>1. The wing ribs for my glider project. The aerofoil was designed and evaluated in XFLR 5, ported to Fusion 360 as an stl file, and then turned into a solid body that I could
+ work with in Fusion. Weight was a concern, so utilizing Fusion's material properties allowed me to estimate how much material I needed to remove to stay within my goal.
+ 
+<br>2. A replacement mouthpiece for a friend's family heirloom candlestick phone. I designed it based on a broken piece given to me, 3D printed it, and did some post-processing to
+ clean it up.
+  
+<br>3. An airsoft pistol to carbine conversion I worked on. The only parts not 3D printed are machine screws, the base airsoft pistol, and an airsoft rifle stock.
+
+<br>4. A custom hardshell carrying case for an external harddrive and the buttpad of a prototype custom stock for the airsoft pistol conversion.  
 
 "
 ---

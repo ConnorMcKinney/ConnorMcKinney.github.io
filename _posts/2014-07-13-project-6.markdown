@@ -4,11 +4,11 @@ modal-id: 6
 date: 2014-07-15
 title: Mechanical Projects
 imgs: 
- - trebuchet.jpg
+ - trebuchet_tall.jpg
  - climbing_structure.jpg
  - airsoft_bow.jpg
  - glaive_and_sword.jpg
- - stock_and_box.jpg
+ 
 alt: image-alt
 project-date: 2016-Present
 client: Personal Projects
@@ -24,7 +24,7 @@ description: "
  hot glue, and scrap denim prevents the piston from being damaged over time. The 'bow' is powered with Theraband elastic bands, which are often used for homemade slingshots. If I had
  infinite free time and resources this is the project I would want to take to the next level.
 
-
-<br>Glaive, airsoft bow, timberwolf carbine, climbing structure, Sawhorse, ...?
+<br> 4. A foam sword built with a pvc pipe spine, camping bedroll foam, a wooden crossguard, and faux leather handle wrap. A wooden glaive prop built from a 2x8 board, a replacement
+ shovel handle, and aluminum tape. This project would have been easier if I had made the blade from foam or Wrenshape, but the weight of the wood makes the glaive a joy to hold.
 "
 ---
