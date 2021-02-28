@@ -5,7 +5,7 @@ name: Connor
 email: cm0215@uah.edu
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "It's a description"
-keywords: "connor mckinney, aerospace, 3d printing, wind tunnel, additive manufacturing, college"
+keywords: "connor mckinney, aerospace, 3d printing, wind tunnel, additive manufacturing, college, programming, python, lua"
 tagline: "Maker.  Learner.  Leader."
 meta_author: McKinney Connor
 
@@ -27,10 +27,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  #used for navbar
+  #used for background
   primary: 006699 #18bc9c #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  #also used for navbar?
+  #used for navbar
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 

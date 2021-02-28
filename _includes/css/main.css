@@ -292,6 +292,7 @@ height: 100%;}
   align-items: stretch;
   justify-content: center;
   flex-basis: 100%;
+  flex-basis: 100%;
 }
 .flex-grid .col {
   flex: 1 0 30%;

@@ -19,7 +19,7 @@ client: Personal and Team Projects
 category: "Programming in Lua, Python, and Matlab"
 description: "
 
-In reading order: 
+Images in reading order: 
 
 <br> 1. A chat room created in Python with netsocket and multi-threading modules.
 <br> 2. Prototype windtunnel controller created in Matlab, done as an experiment in Matlab app design. It can take input for angle of attack and airspeed, export data in excel files, and show video feed while running.
