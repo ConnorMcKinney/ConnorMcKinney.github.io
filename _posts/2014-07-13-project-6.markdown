@@ -18,7 +18,7 @@ description: "
 <br> 1. My trebuchet, built as a weekend project for my high school's Rennaissance fair. Here it's being used for a fun time on my birthday in 2017.
 
 <br> 2. An obstacle course workout rig I started building with my dad in 2015. This was my introduction to building and woodworking, and after collecting some tools I was able to add
- ledges and other elements whenever I got a new idea or found some scrap wood that would work to make something.
+ ledges and other elements whenever I got a new idea.
 
 <br> 3. My proof of concept for an airsoft bow. A 3D printed piston with o-rings shoves air through the cpvc tube and into the silicon tube at the end. A piston-stop made of an old spring,
  hot glue, and scrap denim prevents the piston from being damaged over time. The 'bow' is powered with Theraband elastic bands, which are often used for homemade slingshots. If I had
