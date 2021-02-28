@@ -8,12 +8,21 @@ imgs:
  - Ascender Interior.jpg
  
 video: ascender_anim_render.6.mp4
-video_scale: 75%
+video_scale: 100%
 alt: image-alt
 project-date: Fall 2020
 client: "UAH ENG 211: Intro to CAD"
 category: CAD
-description: "This piece of equipment was designed in Solid Edge in a sci-fi theme to ascend 13mm diameter climbing rope. There are 25 unique parts, along with a myriad of 
-metric machine screws and bolts."
+description: "
+
+This was the culmination of my intro to CAD class in the fall of 2020. We were tasked with recreating an object or mechanism in Solid Edge with minimum requirements for 
+number of parts in the final assembly, as well as for types of features used to create the parts. I knew that I wanted to make a rope ascender, but in my research I found that the few commercial
+ examples of ascenders were terribly dull to look at. 
+<br><br>Because this was never going to be manufactured, I decided to wing it and design everything totally custom. The size is around 
+12 inches long, with the intention to be held in one hand with a tether to a worn harness. The powertrain is two large, brushless hobby aircraft motors powered by 11.4V LiPo batteries. I moved the motors
+to the outside of the shell, complicating the design but creating a unique visual. A set of bevel gears transfer power from the motors to worm gears, which turn the main
+ cylinder around which the rope is wound. 
+
+"
 
 ---

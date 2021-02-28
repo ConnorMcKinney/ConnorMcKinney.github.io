@@ -4,15 +4,27 @@ modal-id: 6
 date: 2014-07-15
 title: Mechanical Projects
 imgs: 
- - teah_pic.jpg
- - submarine.png
- - game.png
- - safe.png
+ - trebuchet.jpg
+ - climbing_structure.jpg
 alt: image-alt
 project-date: 2016-Present
 client: Personal Projects
 category: Various
 description: "
+
+In reading order:
+<br><br>
+1. My trebuchet, built as a weekend project for my high school's Rennaissance fair. Here it's being used for a fun time on my birthday in 2017.
+<br><br>
+2. An obstacle course workout rig I started building with my dad in 2015. This was my introduction to building and woodworking, and after collecting some tools I was able to add
+ ledges and other elements whenever I got a new idea or found some scrap wood that would work to make something.
+<br><br>
+3. My proof of concept for an airsoft bow. A 3D printed piston with o-rings shoves air through the cpvc tube and into the silicon tube at the end. A piston-stop made of an old spring,
+ hot glue, and scrap denim prevents the piston from being damaged over time. The "bow" is powered with Theraband elastic bands, which are often used for homemade slingshots. If I had
+ infinite free time and resources this is the project I would want to take to the next level.
+<br><br>
+
+<br><br>
 
 Glaive, airsoft bow, timberwolf carbine, climbing structure, Sawhorse, ...?
 
